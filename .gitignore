@@ -1,0 +1,19 @@
+# Local IDE and Gradle build state
+.gradle/
+**/build/
+.idea/
+*.iml
+local.properties
+.cxx/
+.externalNativeBuild/
+
+# Operating system junk
+.DS_Store
+Thumbs.db
+
+# Device-specific signing secrets
+*.jks
+*.keystore
+key.properties
+*.bak
+*.hprof
